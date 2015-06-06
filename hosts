@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: May 23rd, 2015 at 12:12
+# Last updated: Jun 5th, 2015 at 13:14
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2300,7 +2300,7 @@
 127.0.0.1 n479ad.doubleclick.net
 127.0.0.1 optimize.doubleclick.net
 127.0.0.1 pagead.l.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
+#127.0.0.1 pubads.g.doubleclick.net	#interferes with video on cwtv.com
 127.0.0.1 rd.intl.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
@@ -6710,6 +6710,7 @@
 127.0.0.1 mobularity.com
 127.0.0.1 mochibot.com
 127.0.0.1 mojofarm.mediaplex.com
+127.0.0.1 moneybot.net
 127.0.0.1 moneyraid.com
 127.0.0.1 monster-ads.net
 127.0.0.1 monstersandcritics.advertserve.com
@@ -8818,6 +8819,7 @@
 127.0.0.1 www.syncaccess.net
 127.0.0.1 www.system-live-media.cz
 127.0.0.1 www.tcimg.com
+127.0.0.1 www.terraclicks.com
 127.0.0.1 www.textbanners.net
 127.0.0.1 www.text-link-ads.com
 127.0.0.1 www.textsrv.com
