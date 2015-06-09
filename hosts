@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jun 5th, 2015 at 13:14
+# Last updated: Jun 8th, 2015 at 14:30
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5775,6 +5775,7 @@
 127.0.0.1 diff3.smartadserver.com
 127.0.0.1 dinoadserver1.roka.net
 127.0.0.1 dinoadserver2.roka.net
+127.0.0.1 dinsalgsvagt.adservinginternational.com
 127.0.0.1 directleads.com
 127.0.0.1 directpowerrewards.com
 127.0.0.1 directrev.cloudapp.net
