@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jul 14th, 2015 at 00:09
+# Last updated: Aug 5th, 2015 at 08:31
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3097,6 +3097,7 @@
 127.0.0.1 a.adorika.net
 127.0.0.1 a.ad.playstation.net
 127.0.0.1 a.adready.com
+127.0.0.1 a.adroll.com
 127.0.0.1 a.ads1.msn.com
 127.0.0.1 a.ads2.msn.com
 127.0.0.1 a-ads.com
@@ -3111,6 +3112,7 @@
 127.0.0.1 a.as-us.falkag.net
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax-us-pdx.amazon-adsystem.com
 127.0.0.1 a.baidu.com
 127.0.0.1 abcnews.footprint.net
 127.0.0.1 ab-gb.mgid.com
@@ -3830,6 +3832,7 @@
 127.0.0.1 ads.adsonar.com
 127.0.0.1 ads.adsrvmedia.com
 127.0.0.1 ads.adsrvmedia.net
+127.0.0.1 ads.adsrvr.org
 127.0.0.1 ads.adtegrity.net
 127.0.0.1 ads.adtiger.de
 127.0.0.1 ads.adultfriendfinder.com
@@ -4594,6 +4597,7 @@
 127.0.0.1 adsmart.net
 127.0.0.1 ads.mcafee.com
 127.0.0.1 ads.mdchoice.com
+127.0.0.1 ads.mediaforge.com
 127.0.0.1 ads.mediamayhemcorp.com
 127.0.0.1 ads.mediaodyssey.com
 127.0.0.1 ads.mediaturf.net
@@ -4822,6 +4826,7 @@
 127.0.0.1 ads.shovtvnet.com
 127.0.0.1 ads.showtvnet.com
 127.0.0.1 ads.sify.com
+127.0.0.1 ads.simpli.fi
 127.0.0.1 ads.simtel.com
 127.0.0.1 ads.simtel.net
 127.0.0.1 ads.sitemeter.com
@@ -5021,6 +5026,7 @@
 127.0.0.1 adtaily.pl
 127.0.0.1 ad.tbn.ru
 127.0.0.1 adtcp.ru
+127.0.0.1 adtech.com
 127.0.0.1 adtech.de
 127.0.0.1 ad.technoramedia.com
 127.0.0.1 adtech.panthercustomer.com
@@ -5487,6 +5493,7 @@
 127.0.0.1 bdv.bidvertiser.com
 127.0.0.1 beacon-3.newrelic.com
 127.0.0.1 beacons.helium.com
+127.0.0.1 beacon-us-west.rubiconproject.com
 127.0.0.1 bell.adcentriconline.com
 127.0.0.1 benimreklam.com
 127.0.0.1 beseenad.looksmart.com
@@ -5626,6 +5633,7 @@
 127.0.0.1 cashbackwow.co.uk
 127.0.0.1 cashflowmarketing.com
 127.0.0.1 casino770.com
+127.0.0.1 caslemedia.com
 127.0.0.1 casting.openv.com
 127.0.0.1 c.as-us.falkag.net
 127.0.0.1 catalinkcashback.com
@@ -5651,6 +5659,7 @@
 127.0.0.1 cdn1.ads.mofos.com
 127.0.0.1 cdn1.eyewonder.com
 127.0.0.1 cdn1.rmgserving.com
+127.0.0.1 cdn1sitescout.edgesuite.net
 127.0.0.1 cdn1.traffichaus.com
 127.0.0.1 cdn1.xlightmedia.com
 127.0.0.1 cdn2.adsdk.com
@@ -5670,6 +5679,8 @@
 127.0.0.1 cdn.amateurmatch.com
 127.0.0.1 cdn.amgdgt.com
 127.0.0.1 cdn.assets.craveonline.com
+127.0.0.1 cdn.atlassbx.com
+127.0.0.1 cdn.augur.io
 127.0.0.1 cdn.banners.scubl.com
 127.0.0.1 cdn.cpmstar.com
 127.0.0.1 cdn.crowdignite.com
@@ -5780,6 +5791,7 @@
 127.0.0.1 clickserve.eu.dartsearch.net
 127.0.0.1 clickserve.uk.dartsearch.net
 127.0.0.1 clickserve.us2.dartsearch.net
+127.0.0.1 clickserv.sitescout.com
 127.0.0.1 clicks.hurriyet.com.tr
 127.0.0.1 clicksor.com
 127.0.0.1 clicksotrk.com
@@ -6675,6 +6687,7 @@
 127.0.0.1 inklineglobal.com
 127.0.0.1 inl.adbureau.net
 127.0.0.1 input.insights.gravity.com
+127.0.0.1 insightexpressai.com
 127.0.0.1 insightxe.pittsburghlive.com
 127.0.0.1 insightxe.vtsgonline.com
 127.0.0.1 ins-offer.com
@@ -6988,6 +7001,7 @@
 127.0.0.1 media.b.lead.program3.com
 127.0.0.1 media.bonnint.net
 127.0.0.1 mediacharger.com
+127.0.0.1 media.charter.com
 127.0.0.1 media.contextweb.com
 127.0.0.1 media.elb-kind.de
 127.0.0.1 media.espace-plus.net
@@ -7545,6 +7559,7 @@
 127.0.0.1 protection.VIpolice.com
 127.0.0.1 proximityads.flipcorp.com
 127.0.0.1 proxy.blogads.com
+127.0.0.1 pr.ydp.yahoo.com
 127.0.0.1 pstatic.datafastguru.info
 127.0.0.1 ptrads.mp3.com
 127.0.0.1 ptreklam.com
@@ -7721,6 +7736,7 @@
 127.0.0.1 rts.sparkstudios.com
 127.0.0.1 r.turn.com
 127.0.0.1 rt.visilabs.com
+127.0.0.1 ru4.com
 127.0.0.1 ru.bbelements.com
 127.0.0.1 rubi4edit.com
 127.0.0.1 rubiccrum.com
