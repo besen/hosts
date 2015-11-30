@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Nov 19th, 2015 at 21:40
+# Last updated: Nov 27th, 2015 at 20:33
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1704,6 +1704,7 @@
 127.0.0.1 faggotry.com
 127.0.0.1 familyupport1.com
 127.0.0.1 feaecebook.com
+127.0.0.1 feedbackexplorer.com
 127.0.0.1 fengyixin.com
 127.0.0.1 filosvybfimpsv.ru.gg
 127.0.0.1 fr.apple.com-services-assistance-recuperations-des-comptes.com
@@ -3616,6 +3617,7 @@
 127.0.0.1 ad.garantiarkadas.com
 127.0.0.1 adgardener.com
 127.0.0.1 ad.gazeta.pl
+127.0.0.1 ad-gb.mgid.com
 127.0.0.1 ad-gbn.com
 127.0.0.1 ad.ghfusion.com
 127.0.0.1 ad.goo.ne.jp
@@ -4667,6 +4669,7 @@
 127.0.0.1 ads.foxnews.com
 127.0.0.1 ads.fredericksburg.com
 127.0.0.1 ads.freebannertrade.com
+127.0.0.1 ads.freeskreen.com
 127.0.0.1 ads.freshmeat.net
 127.0.0.1 ads.fresnobee.com
 127.0.0.1 ads.friendfinder.com
@@ -5950,6 +5953,7 @@
 127.0.0.1 cdn.go.pol.bbelements.com
 127.0.0.1 cdn.hadj7.adjuggler.net
 127.0.0.1 cdn.innovid.com
+127.0.0.1 cdn.komoona.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.mediative.ca
 127.0.0.1 cdn.merchenta.com
@@ -5962,6 +5966,7 @@
 127.0.0.1 cdn.stat.easydate.biz
 127.0.0.1 cdn.syn.verticalacuity.com
 127.0.0.1 cdn.tabnak.ir
+127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.trafficstars.com
 127.0.0.1 cdnt.yottos.com
 127.0.0.1 cdn.udmserve.net
@@ -7315,6 +7320,7 @@
 127.0.0.1 mercury.bravenet.com
 127.0.0.1 messagent.duvalguillaume.com
 127.0.0.1 messagia.adcentric.proximi-t.com
+127.0.0.1 metaapi.bulletproofserving.com
 127.0.0.1 meter-svc.nytimes.com
 127.0.0.1 metrics.natmags.co.uk
 127.0.0.1 metrics.sfr.fr
@@ -7378,6 +7384,7 @@
 127.0.0.1 mpartner.googleadservices.com
 127.0.0.1 mp.tscapeplay.com
 127.0.0.1 mpv.sandai.net
+127.0.0.1 mr4evmd0r1.s.ad6media.fr
 127.0.0.1 msn.allyes.com
 127.0.0.1 msnbe-hp.metriweb.be
 127.0.0.1 msn-cdn.effectivemeasure.net
@@ -7536,6 +7543,7 @@
 127.0.0.1 observer.advertserve.com
 127.0.0.1 obs.nnm2.ru
 127.0.0.1 ocslab.com
+127.0.0.1 offer.alibaba.com
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.impower.com
 127.0.0.1 offerx.co.uk
@@ -7587,7 +7595,9 @@
 127.0.0.1 optimize.indieclick.com
 127.0.0.1 optimzedby.rmxads.com
 127.0.0.1 orange.fr-enqueteannuelle.xyz
+127.0.0.1 orange.fr-enqueteofficielle2015.xyz
 127.0.0.1 orange.fr-votre-opinion.xyz
+127.0.0.1 orange.fr-votreopinion.xyz
 127.0.0.1 orange.weborama.fr
 127.0.0.1 ordie.adbureau.net
 127.0.0.1 origin.chron.com
@@ -8011,6 +8021,7 @@
 127.0.0.1 rss.buysellads.com
 127.0.0.1 rt2.infolinks.com
 127.0.0.1 rt3.infolinks.com
+127.0.0.1 rtb-lb-event-sjc.tubemogul.com
 127.0.0.1 rtb.pclick.yahoo.com
 127.0.0.1 rtb.tubemogul.com
 127.0.0.1 rtr.innovid.com
@@ -8062,6 +8073,7 @@
 127.0.0.1 sayac.hurriyet.com.tr
 127.0.0.1 sayfabulunamadi.com
 127.0.0.1 s.baidu.com
+127.0.0.1 sb.freeskreen.com
 127.0.0.1 s.boom.ro
 127.0.0.1 sc1.admob.com
 127.0.0.1 sc9.admob.com
@@ -8340,6 +8352,7 @@
 127.0.0.1 static.firehunt.com
 127.0.0.1 static.fmpub.net
 127.0.0.1 static.freenet.de
+127.0.0.1 static.freeskreen.com
 127.0.0.1 static.groupy.co.nz
 127.0.0.1 static.hitfarm.com
 127.0.0.1 static.ifa.camads.net
@@ -8368,6 +8381,7 @@
 127.0.0.1 stats.ipinyou.com
 127.0.0.1 stats.jtvnw.net
 127.0.0.1 stats.shopify.com
+127.0.0.1 stats.tubemogul.com
 127.0.0.1 stats.tudou.com
 127.0.0.1 stat.tudou.com
 127.0.0.1 status.addthis.com
@@ -8375,6 +8389,7 @@
 127.0.0.1 s.tcimg.com
 127.0.0.1 st.marketgid.com
 127.0.0.1 stocker.bonnint.net
+127.0.0.1 storage.bulletproofserving.com
 127.0.0.1 storage.softure.com
 127.0.0.1 storage.trafic.ro
 127.0.0.1 streamate.com
@@ -9606,6 +9621,7 @@
 127.0.0.1 www.sports-premiumblvd.com
 127.0.0.1 www.sq2trk2.com
 127.0.0.1 www.star-advertising.com
+127.0.0.1 www.startnewtab.com
 127.0.0.1 www.subsitesadserver.co.uk
 127.0.0.1 www.sudokuwhiz.com
 127.0.0.1 www.superbrewards.com
@@ -9642,6 +9658,7 @@
 127.0.0.1 www.toy-offer.com
 127.0.0.1 www.toy-offer.net
 127.0.0.1 www.tqlkg.com		#commission junction
+127.0.0.1 www.track2cash.com
 127.0.0.1 www.trackadvertising.net
 127.0.0.1 www.tracklead.net
 127.0.0.1 www.trafficrevenue.net
@@ -9680,6 +9697,7 @@
 127.0.0.1 www.vibrantmedia.com
 127.0.0.1 www.video-game-rewards-central.com
 127.0.0.1 www.videogamerewardscentral.com
+127.0.0.1 www.videohube.eu
 127.0.0.1 www.view4cash.de
 127.0.0.1 www.virtumundo.com
 127.0.0.1 www.vmcsatellite.com
