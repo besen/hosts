@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 14 Mar 2016 at 07:34:45 GMT
+# Last updated: Sat, 19 Mar 2016 at 06:36:00 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7087,6 +7087,7 @@
 127.0.0.1 ikcode.baidu.com
 127.0.0.1 i.laih.com
 127.0.0.1 ilinks.industrybrains.com
+127.0.0.1 ilovemobi.com
 127.0.0.1 imads.integral-marketing.com
 127.0.0.1 im.adtech.de
 127.0.0.1 image2.pubmatic.com
@@ -9787,6 +9788,7 @@
 127.0.0.1 www.iicdn.com
 127.0.0.1 www.ijacko.net
 127.0.0.1 www.ilovecheating.com
+127.0.0.1 www.ilovemobi.com
 127.0.0.1 www.impressionaffiliate.com
 127.0.0.1 www.impressionaffiliate.mobi
 127.0.0.1 www.impressionlead.com
@@ -12331,15 +12333,6 @@
 #<Windows10>
 
 # Windows 10 reporting domains. 
-127.0.0.1 a-0001.a-msedge.net
-127.0.0.1 a-0002.a-msedge.net
-127.0.0.1 a-0003.a-msedge.net
-127.0.0.1 a-0004.a-msedge.net
-127.0.0.1 a-0005.a-msedge.net
-127.0.0.1 a-0006.a-msedge.net
-127.0.0.1 a-0007.a-msedge.net
-127.0.0.1 a-0008.a-msedge.net
-127.0.0.1 a-0009.a-msedge.net
 127.0.0.1 a.ads2.msads.net
 127.0.0.1 a.ads2.msn.com
 127.0.0.1 adnexus.net
