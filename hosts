@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 22 Apr 2017 at 21:41:43 GMT
+# Last updated: Mon, 24 Apr 2017 at 07:47:41 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2085,6 +2085,7 @@
 127.0.0.1 err2.9939118.info
 127.0.0.1 err3.9939118.info
 127.0.0.1 error-warning-alert-critical-5x.com
+127.0.0.1 etr-interac.com
 127.0.0.1 eviboli576.o-f.com
 127.0.0.1 exasked.com
 127.0.0.1 expertland.net
@@ -2158,6 +2159,7 @@
 127.0.0.1 kentsucks.youcanoptout.com
 127.0.0.1 keybinary.com
 127.0.0.1 kirgo.at	# Facebook phishing attempt
+127.0.0.1 kitsjim.com
 127.0.0.1 klowns4phun.com
 127.0.0.1 known.counsellor.gov.cn
 127.0.0.1 konflow.com				# Facebook trojan
@@ -7630,6 +7632,7 @@
 127.0.0.1 global.ymtrack.com
 127.0.0.1 globalnetworkanalys.com
 127.0.0.1 globalwebads.com
+127.0.0.1 gm.mmstat.com
 127.0.0.1 gm.preferences.com
 127.0.0.1 gmads.net
 127.0.0.1 go-free-gifts.com
@@ -8388,6 +8391,7 @@
 127.0.0.1 mm.admob.com
 127.0.0.1 mm.chitika.net
 127.0.0.1 mm1.vip.sc1.admob.com
+127.0.0.1 mmstat.com
 127.0.0.1 mmv.admob.com
 127.0.0.1 mob.adwhirl.com
 127.0.0.1 mobfactory.info
@@ -8750,6 +8754,7 @@
 127.0.0.1 pc-gizmos-ssl.com
 127.0.0.1 pc-virus-d0l92j2.pw
 127.0.0.1 pcads.ru
+127.0.0.1 pcookie.aliexpress.com
 127.0.0.1 peaky.tags.yield-atx.com
 127.0.0.1 pei-ads.playboy.com
 127.0.0.1 people-choice-sites.com
@@ -8866,6 +8871,7 @@
 127.0.0.1 popupclick.ru
 127.0.0.1 popupdomination.com
 127.0.0.1 popups.ad-logics.com
+127.0.0.1 popups.afftrack001.com
 127.0.0.1 popups.infostart.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 posed2shade.com
@@ -9551,6 +9557,7 @@
 127.0.0.1 static.affiliation-france.com
 127.0.0.1 static.carbonads.com
 127.0.0.1 static.chartbeat.com
+127.0.0.1 static.clickonometrics.pl
 127.0.0.1 static.clicktorrent.info
 127.0.0.1 static.creatives.livejasmin.com
 127.0.0.1 static.criteo.net
@@ -11092,6 +11099,7 @@
 127.0.0.1 www13.ad.tomshardware.com
 127.0.0.1 www13.glam.com
 127.0.0.1 www14.ad.tomshardware.com
+127.0.0.1 www14.smartadserver.com
 127.0.0.1 www15.ad.tomshardware.com
 127.0.0.1 www17.glam.com
 127.0.0.1 www18.glam.com
